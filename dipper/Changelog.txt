@@ -1,6 +1,0 @@
-ROM:
-• Show bluetooth battery % on statusbar for all supported devices
-• Add SIM data switch QS tile
-• Minor code improvements here and there
-
-Device:

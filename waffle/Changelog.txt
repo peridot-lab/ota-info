@@ -1,9 +1,0 @@
-ROM:
-• No changes
-
-Device:
-• Vibrations: New implementation:
-  - Now each strength setting uses different effects (as intended with parsed richtap effects)
-  - Uses common QTI vibrator with device side effects library
-  - Improves slider haptics
-  - Only modified effect is double click (to actually double click)

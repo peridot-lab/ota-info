@@ -1,8 +1,0 @@
-ROM:
-• Fix volume dialog ringer drawer in landscape.
-• Set the correct default for tether offload setting.
-• Applied May security patch patches.
-
-Device:
-• Patch com.vidhance.node.eis.so with libui-v34.
-• Enable camera override format from reserved for high framerate video.
